@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-09T11:15:07 IST" name="Default suite" finished-at="2022-07-09T11:15:48 IST" duration-ms="40969">
+    <groups>
+    </groups>
+    <test started-at="2022-07-09T11:15:07 IST" name="Default test" finished-at="2022-07-09T11:15:48 IST" duration-ms="40969">
+      <class name="com.facebook.test.regression">
+        <test-method signature="TC_001()[pri:0, instance:com.facebook.test.regression@79da8dc5]" started-at="2022-07-09T11:15:07 IST" name="TC_001" finished-at="2022-07-09T11:15:48 IST" duration-ms="40820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+      </class> <!-- com.facebook.test.regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
